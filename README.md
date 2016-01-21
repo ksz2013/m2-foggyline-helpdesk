@@ -3,7 +3,7 @@
 ### Installation
 
 ```sh
-$ composer config repositories.koncz-m2-foggyline-helpdeskgit https://github.com/ksz2013/m2-foggyline-helpdesk.git
+$ composer config repositories.koncz-m2-foggyline-helpdesk git https://github.com/ksz2013/m2-foggyline-helpdesk.git
 $ composer require koncz/m2-foggyline-helpdesk:dev-master
 ```
 
